@@ -1,4 +1,6 @@
 # Excel-Dashboard--Headcount
 The dashboard displays headcount summary
-![Headcount](https://user-images.githubusercontent.com/34594831/221352496-69c0c9c8-a820-4329-b285-b1f2839c5f03.JPG)
-https://user-images.githubusercontent.com/34594831/221353298-69636b84-61a3-4b09-aa41-5250e4acc67e.mp4
+![Headcount](https://user-images.githubusercontent.com/34594831/221353349-8d453f11-7b81-4fc8-8c19-0504e51bd0d0.JPG)
+
+https://user-images.githubusercontent.com/34594831/221353350-04d753bf-0fd7-45d1-bf8e-035269687ab8.mp4
+
